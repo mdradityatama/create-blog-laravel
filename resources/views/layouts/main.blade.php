@@ -22,7 +22,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">MyBlog</a>
+              <a class="navbar-brand" href="/">MyBlog</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -59,6 +59,7 @@
         </div>
     </footer>
 
-    <script src="{{ asset('js/bootstrap.min.js') }]"></script>
+    <script src="{{ asset('js/jquery.min.js') }}"></script>
+    <script src="{{ asset('js/bootstrap.min.js') }}"></script>
 </body>
 </html>
